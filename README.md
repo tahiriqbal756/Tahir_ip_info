@@ -29,3 +29,4 @@ git clone https://github.com/tahiriqbal756/Tahir_ip_info.git
 cd Tahir_ip_info
 chmod +x install.sh
 bash install.sh
+python tahir_ip_info.py
